@@ -3,7 +3,7 @@
 import React from "react";
 
 export default function Welcome(props) {
-  console.log(props);
+ // console.log(props);
   return (
     <>
       <h1>Hey!{props.name}</h1>
